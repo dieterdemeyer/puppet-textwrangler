@@ -70,7 +70,3 @@ PLATFORMS
 
 DEPENDENCIES
   cardboard (~> 1.0)
-  puppet-lint
-  rake
-  rspec (~> 2.13.0)
-  rspec-puppet
